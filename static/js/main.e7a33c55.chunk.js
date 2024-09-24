@@ -12735,7 +12735,7 @@
               steerInterval: 1,
               slipBase: 0.1,
               slipMod: 0.05,
-              aeroFactor: 0.01,
+              aeroFactor: 60.01,
               headlightPos: { x: 0.64, y: 0.7, z: 3.1 },
             },
             cameras: xr,
