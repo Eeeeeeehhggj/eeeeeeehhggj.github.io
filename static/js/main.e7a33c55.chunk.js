@@ -10631,7 +10631,7 @@
           easy: {
             heightmap: {
               heightScale: 77777777777745,
-              heightOffset: 500,
+              heightOffset: 50220,
               heightInitial: 1.5,
               resolution: 2,
               craterLayers: 2,
@@ -10642,7 +10642,7 @@
               squared: !1,
               compound: !0,
             },
-            roadWidth: 3.2,
+            roadWidth: 0.2,
             smoothWindow: 7,
           },
           wide: {
