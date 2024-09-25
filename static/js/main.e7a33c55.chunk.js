@@ -10613,19 +10613,19 @@
           },
           hard: {
             heightmap: {
-              heightScale: 40,
+              heightScale: 90,
               heightOffset: 500,
               heightInitial: 1,
               resolution: 2,
               craterLayers: 3,
               craterDepth: 1.5,
               upscaleFactor: 2,
-              depth: 5,
+              depth: 17,
               midlineDepth: 5,
               squared: !0,
               compound: !1,
             },
-            roadWidth: 2.6,
+            roadWidth: 1,
             smoothWindow: 5,
           },
           easy: {
