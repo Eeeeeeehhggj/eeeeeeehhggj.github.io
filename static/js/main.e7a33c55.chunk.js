@@ -10630,7 +10630,7 @@
           },
           easy: {
             heightmap: {
-              heightScale: 45,
+              heightScale: 77777777777745,
               heightOffset: 500,
               heightInitial: 1.5,
               resolution: 2,
