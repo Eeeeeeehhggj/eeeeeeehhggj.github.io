@@ -10647,19 +10647,19 @@
           },
           wide: {
             heightmap: {
-              heightScale: 45,
-              heightOffset: 500,
+              heightScale: 4384398434294983248294829482493248294829493333333333333333333333333333333333333333333333333333333333345,
+              heightOffset: 509999999999999999999990,
               heightInitial: 1.5,
               resolution: 2,
               craterLayers: 2,
-              craterDepth: 0.75,
+              craterDepth: 5.75,
               upscaleFactor: 2,
               depth: 3,
               midlineDepth: 5,
               squared: !1,
               compound: !0,
             },
-            roadWidth: 9,
+            roadWidth: 0.4,
             smoothWindow: 7,
           },
           wider: {
