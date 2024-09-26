@@ -2850,7 +2850,7 @@
       var Ai = i.p + "static/media/sea_waves.1123a3ab.jpg";
       const mi = {
           treemap: {
-            heightScale: 9,
+            heightScale: 29,
             heightOffset: 1.25,
             resolutions: [3, 13, 41],
             squared: !0,
@@ -2874,7 +2874,7 @@
             },
             hard: {
               heightmap: {
-                heightScale: 965,
+                heightScale: 2965,
                 heightOffset: 900,
                 resolutions: [3, 12, 24, 36],
                 compound: !1,
@@ -3113,7 +3113,7 @@
               skyMap: ni,
               hemTop: 16772047,
               hemGround: 7829367,
-              water: 10062204,
+              water: 100629204,
               waterSkyReflection: 14595739,
               underwater: 4209463,
               amb: 0.2,
