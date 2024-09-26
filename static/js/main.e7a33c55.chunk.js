@@ -528,12 +528,12 @@
         autoOn: {
           src: i.p + "static/media/auto_on.4166c93e.wav",
           sound: null,
-          vol: 0.5,
+          vol: 999,
         },
         autoOff: {
           src: i.p + "static/media/auto_off.6dfe6c40.wav",
           sound: null,
-          vol: 0.5,
+          vol: 999,
         },
       };
       var audio = new (class {
