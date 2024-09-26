@@ -896,7 +896,7 @@
             fwdHorizon: 40,
             rearHorizon: 5,
             nearFwdHorizon: 15,
-            wallGenHorizon: 65,
+            wallGenHorizon: 67,
             wallRenderHorizon: 20,
           },
           // med
@@ -2850,7 +2850,7 @@
       var Ai = i.p + "static/media/sea_waves.1123a3ab.jpg";
       const mi = {
           treemap: {
-            heightScale: 1,
+            heightScale: 4,
             heightOffset: 1.25,
             resolutions: [3, 13, 41],
             squared: !0,
@@ -2862,7 +2862,7 @@
           topography: {
             normal: {
               heightmap: {
-                heightScale: 160,
+                heightScale: 190,
                 heightOffset: 84,
                 resolutions: [3, 12, 24],
                 compound: !1,
@@ -2874,14 +2874,14 @@
             },
             hard: {
               heightmap: {
-                heightScale: 165,
+                heightScale: 305,
                 heightOffset: 100,
                 resolutions: [3, 12, 24, 36],
                 compound: !1,
                 squared: !0,
-                depthHeightFactor: 0.98,
+                depthHeightFactor: 2.98,
               },
-              roadWidth: 2.6,
+              roadWidth: 1,
               smoothWindow: 5,
             },
             easy: {
