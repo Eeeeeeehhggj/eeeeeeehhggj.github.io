@@ -2850,7 +2850,7 @@
       var Ai = i.p + "static/media/sea_waves.1123a3ab.jpg";
       const mi = {
           treemap: {
-            heightScale: 1,
+            heightScale: 9,
             heightOffset: 1.25,
             resolutions: [3, 13, 41],
             squared: !0,
@@ -2874,8 +2874,8 @@
             },
             hard: {
               heightmap: {
-                heightScale: 165,
-                heightOffset: 100,
+                heightScale: 965,
+                heightOffset: 900,
                 resolutions: [3, 12, 24, 36],
                 compound: !1,
                 squared: !0,
