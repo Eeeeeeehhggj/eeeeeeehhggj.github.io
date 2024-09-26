@@ -9236,7 +9236,7 @@
         addWallTree(e, t, i) {
           bn.position.set(e, t - 1, i),
             (bn.rotation.y = fn.next()),
-            bn.scale.set(0.75, 0.75, 0.75),
+            bn.scale.set(5.75, 5.75, 5.75),
             bn.updateMatrix(),
             this.trees.setMatrixAt(this.treeInstanceIndex, bn.matrix),
             (this.trees.instanceVariant.array[this.treeInstanceIndex] = 0),
