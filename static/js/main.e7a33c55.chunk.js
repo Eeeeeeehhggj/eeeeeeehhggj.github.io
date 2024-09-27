@@ -2905,7 +2905,7 @@
                 squared: !0,
                 depthHeightFactor: 0.9,
               },
-              roadWidth: 0.8,
+              roadWidth: 1.8,
               smoothWindow: 7,
             },
             wider: {
