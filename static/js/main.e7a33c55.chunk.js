@@ -2874,14 +2874,14 @@
             },
             hard: {
               heightmap: {
-                heightScale: 2965,
+                heightScale: 1115,
                 heightOffset: 900,
                 resolutions: [3, 12, 24, 36],
                 compound: !1,
                 squared: !0,
                 depthHeightFactor: 0.98,
               },
-              roadWidth: 2.6,
+              roadWidth: 0.8,
               smoothWindow: 5,
             },
             easy: {
@@ -2922,14 +2922,14 @@
             },
             hell: {
               heightmap: {
-                heightScale: 60,
-                heightOffset: 100,
+                heightScale: 4000,
+                heightOffset: 900,
                 resolutions: [3, 12, 24, 36],
                 compound: !1,
                 squared: !0,
                 depthHeightFactor: 1.3,
               },
-              roadWidth: 2.2,
+              roadWidth: .8,
               smoothWindow: 3,
             },
             straight: {
