@@ -2898,14 +2898,14 @@
             },
             wide: {
               heightmap: {
-                heightScale: 180,
-                heightOffset: 100,
+                heightScale: 1080,
+                heightOffset: 1000,
                 resolutions: [3, 12],
                 compound: !1,
                 squared: !0,
                 depthHeightFactor: 0.9,
               },
-              roadWidth: 9,
+              roadWidth: 0.8,
               smoothWindow: 7,
             },
             wider: {
