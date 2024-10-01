@@ -19583,7 +19583,7 @@
           },
           {
             q: "Will there ever be a competitive mode?",
-            a: "With enough interest, there are plans to add global leaderboards displaying the fastest times or furthest distances reached. Let me know if that interests you!",
+            a: "With enough interest, there are plans to add global leaderboards displaying the fastest times or furthest distances reached. Let me know if that interests you! FUCK YOU.",
           },
         ],
         Xl = [
