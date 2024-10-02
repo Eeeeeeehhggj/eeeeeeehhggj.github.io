@@ -16752,7 +16752,7 @@
                 e.setLoop(!0),
                 e.setLoopStart(0.1),
                 e.setLoopEnd(e.buffer.duration - 0.1),
-                e.setVolume(0),
+                e.setVolume(3),
                 e.setRefDistance(8),
                 e.setRolloffFactor(pl),
                 e.play(),
