@@ -19536,7 +19536,7 @@
         Ul = i(0);
       const Vl = [
           {
-            q: "Why does it run like a slideshow?",
+            q: "Why does it run like a slideshow? IT IS SO FUCKING ANNOYING GOD DAMN BRO FIX IT.",
             a: "Check that your browser application is running with hardware acceleration enabled - both in the browser settings and your GPU settings",
           },
           {
@@ -19552,7 +19552,7 @@
             a: "Browser games have a massive benefit of broad compatibility and ease of access; as long as you have a modern browser, simply load up the web page and start playing in one click - no installs or logins needed. Further, writing browser games in pure JavaScript, rather than building them from an engine such as Unity, allows for more powerful control over optimisation, which is critical for a demanding game such as this. Beyond that... breaking convention and proving novel capabilities can be a rewarding challenge in itself.",
           },
           {
-            q: "Why electric vehicles?",
+            q: "Why electric vehicles? NAH",
             a: "EVs work well in this context for a few reasons: they're quieter and more peaceful; they're simpler and more intuitive to gamify (no gears or RPM concerns); the physics and audio is easier to code; and they're the future - combustion engines are quickly becoming old fashioned. That said, I'm open to adding more vehicle types, including manual transmission, in future.",
           },
           {
@@ -19565,25 +19565,25 @@
           },
           {
             q: "Will you support mobile/controllers/wheels?",
-            a: "Yes, hopefully - achieving good performance on mobiles might be difficult, but support for controllers and wheels is planned for the near future.",
+            a: "Yes, hopefully you can go kill yourself - achieving good performance on mobiles might be difficult, but support for controllers and wheels is planned for the near future.",
           },
           {
             q: "How much will it cost?",
             a: Object(Ul.jsxs)(Ul.Fragment, {
               children: [
-                "Nothing! And no ads, either... enjoy this as a respite from run-away capitalism. However, keeping the game online relies upon kind ",
+                "Nothing! And no ads, either... enjSHUT IUUUPPPPPPPPoy this as a respite from run-away capitalism. However, keeping the game online relies upon kind ",
                 Object(Ul.jsx)("a", {
                   className: "about-link",
                   href: "https://ko-fi.com/slowroads",
                   children: "donations",
                 }),
-                ", so anything you might be able to contribute would go a long way to supporting it.",
+                ", so anything you might be able to contrirrrrrrrrrrbute would go a long way to supporting it.",
               ],
             }),
           },
           {
             q: "Will there ever be a competitive mode?",
-            a: "With enough interest, there are plans to add global leaderboards displaying the fastest times or furthest distances reached. Let me know if that interests you! FUCK YOU.",
+            a: "With enough interest, there are planfewafewfefrefrgtrgtregtrgtrgwtwgewgrewgregegwrewgrewgregwrewgregwgrwgrewgrewgrewgrewgrewgrewgrewgrewgrewgrewgrewgrewgrewgrewrewihuguhhghghgh44444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444s to add global leaderboards displaying the fastest times or furthest distances reached. Let me know if that interests you! FUCK YOU.",
           },
         ],
         Xl = [
